@@ -3,9 +3,9 @@
 # import complex math module
 import cmath
 
-a = 4
-b = 4
-c = 4
+a = 5
+b = 5
+c = 5
 
 # calculate the discriminant
 d = (b**2) - (4*a*c)
